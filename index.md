@@ -56,34 +56,27 @@ With the Finder as the foremost application, press shift-command-H and then comm
 - In the tabs pane, uncheck all tags under "Show these tags in the sidebar"
 - In the sidebar pane, check/uncheck the following:
 
-Favorites
+	Favorites
+	☐ All My Files
+	☑ AirDrop
+	☑ Applications
+	☑ Desktop
+	☑ Documents
+	☑ Downloads
+	☑ username (eg. "seanherron")
 
-☐ All My Files
+	Shared
+	☐ Back to My Mac
+	☑ Connected Servers
+	☐ Bonjour Computers
 
-☑ AirDrop
+	Devices
+	☐ Computer Name
+	☑ Hard Disks
+	☑ External Disks
 
-☑ Applications
-
-☑ Desktop
-
-☑ Documents
-
-☑ Downloads
-
-☑ username (eg. "seanherron")
-
-Shared
-☐ Back to My Mac
-☑ Connected Servers
-☐ Bonjour Computers
-
-Devices
-☐ Computer Name
-☑ Hard Disks
-☑ External Disks
-
-Tags
-☐ Recent Tags
+	Tags
+	☐ Recent Tags
 
 - In the "Advanced" pane, check "Empty Trash Securely"
 
