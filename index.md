@@ -57,12 +57,19 @@ With the Finder as the foremost application, press shift-command-H and then comm
 - In the sidebar pane, check/uncheck the following:
 
 Favorites
+
 ☐ All My Files
+
 ☑ AirDrop
+
 ☑ Applications
+
 ☑ Desktop
+
 ☑ Documents
+
 ☑ Downloads
+
 ☑ username (eg. "seanherron")
 
 Shared
