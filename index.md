@@ -248,3 +248,10 @@ Which should net you:
 	Installing setuptools, pip...done.
 
 ta-da!
+
+### Bash Prompt
+Edit your `~/.bash_profile` and add the following for a better bash prompt:
+
+    # Set up bash prompt
+    export PS1="\W \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
+    export SUDO_PS1="\[$bakred\]\[$txtrst\] \w\$ "
