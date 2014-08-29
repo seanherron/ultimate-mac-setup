@@ -255,3 +255,8 @@ Edit your `~/.bash_profile` and add the following for a better bash prompt:
     # Set up bash prompt
     export PS1="\W \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
     export SUDO_PS1="\[$bakred\]\[$txtrst\] \w\$ "
+
+## Applications
+These are applications I typically install:
+- Google Chrome
+- Password Manager
