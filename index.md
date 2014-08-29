@@ -260,3 +260,4 @@ Edit your `~/.bash_profile` and add the following for a better bash prompt:
 These are applications I typically install:
 - Google Chrome
 - Password Manager
+- Spectacle
