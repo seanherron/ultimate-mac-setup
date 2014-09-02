@@ -82,19 +82,6 @@ Tags
 
 - In the "Advanced" pane, check "Empty Trash Securely"
 
-## Basic Bash Setup
-
-- Open your ~/.bash_profile file (I use `vim ~/.bash_profile`)
-
-and add:
-
-	# Set architecture flags
-	export ARCHFLAGS="-arch x86_64"
-	# Ensure user-installed binaries take precedence
-	export PATH=/usr/local/bin:$PATH
-	# Load .bashrc if it exists
-	test -f ~/.bashrc && source ~/.bashrc
-
 ## Configure Chrome
 Most of your work will probably be done in the web browser, so configuring Chrome is super important.
 
@@ -111,9 +98,6 @@ The follow section covers basic developer setup:
 ### Xcode
 I like to install the full version of Xcode. You can do this by installing the "Xcode" app from the Mac App Store. After it has installed, **you must open the app and accept the terms and conditions before doing anything else**.
 
-### Better Terminal
-I like to use [iTerm 2](http://www.iterm2.com/#/section/home) rather than the default bundled Terminal app.
-
 ### Homebrew
 Everything possible should be installed via Homebrew. Do this by running the following:
 
@@ -125,16 +109,10 @@ After you install homebrew, run the following:
 
 Install your first packages, some simple ones I enjoy:
 
-	$ brew install bash-completion ssh-copy-id wget
+	$ brew install ssh-copy-id wget
 
 **NOTE**: If you get an error thing, make sure you open Xcode and accept the terms and conditions, then try again!
 
-Enable bash completion in your ~/.bash_profile:
-
-	# Bash compeltion
-	if [ -f $(brew --prefix)/etc/bash_completion ]; then
-	    . $(brew --prefix)/etc/bash_completion
-	fi
 
 ### Git
 Install git:
