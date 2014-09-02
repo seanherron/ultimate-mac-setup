@@ -35,4 +35,8 @@ I also run a nice little `.brewfile` to maintain all of my dependencies:
     $ brew bundle ~/.brewfile
 ```
 
+And, if you are on Mac, a nice little `.caskfile` for all those pesty Applications:
+```
+    $ brew bundle ~/.caskfile
+```
 
