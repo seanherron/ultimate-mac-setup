@@ -29,3 +29,10 @@ Get your dotfiles set up first. I like to clone mine (obviously):
     $ cd ~/Profiles/dotfiles
     $ . ./bootstrap.sh
 ```
+
+I also run a nice little `.brewfile` to maintain all of my dependencies:
+```
+    $ brew bundle ~/.brewfile
+```
+
+
