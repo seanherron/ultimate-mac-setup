@@ -24,4 +24,8 @@ from within the project in question. This will not change things globally, just 
 
 # Dotfiles
 Get your dotfiles set up first. I like to clone mine (obviously):
+```
     $ git clone https://github.com/seanherron/dotfiles ~/Projects/dotfiles
+    $ cd ~/Profiles/dotfiles
+    $ . ./bootstrap.sh
+```
