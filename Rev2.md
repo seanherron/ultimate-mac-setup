@@ -1,9 +1,8 @@
 # Get Started
 - Install XCode from the Mac App Store. After it has installed, **you must open the app and accept the terms and conditions before doing anything else**.
 - Install Homebrew:
- 
-    $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
-    $ brew doctor && brew update
+    `$ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"`
+    `$ brew doctor && brew update`
 
 - Install Git
  
